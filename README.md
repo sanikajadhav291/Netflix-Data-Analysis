@@ -1,11 +1,16 @@
 # 🎬 Netflix Data Analysis Project using Python and Tableau
 
+##  Objective
+To analyze Netflix content data and identify trends in content type, growth, and audience targeting using Python and Tableau.
+
+---
+
 ##  Project Overview
 This project focuses on analyzing Netflix Movies and TV Shows dataset to uncover trends in content distribution, growth over time, and audience targeting.
 
 ---
 
-## 📂 Dataset
+##  Dataset
 The dataset used in this project is sourced from Kaggle:
 🔗 https://www.kaggle.com/datasets/shivamb/netflix-shows
 
