@@ -15,3 +15,6 @@ This project analyzes Netflix dataset to find trends in content type, country di
 
 ## Dashboard
 Interactive dashboard created using Tableau.
+
+## Dashboard Preview
+![Dashboard](netflix_dashboard.png)
